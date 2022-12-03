@@ -1,0 +1,76 @@
+[
+   {
+      "id":"1",
+      "name":"Tennis",
+      "description":"Color amarrillo y rojo, talla 38",
+      "promocion":"Mitad de precio",
+      "marca":"Nike",
+      "img":"https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/277430657_1470724969988221_4228815495260950459_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=105&ccb=1-7&_nc_sid=da31f3&_nc_ohc=K_FlP1W9JCYAX9ipXQh&_nc_ht=scontent.fmga3-2.fna&oh=00_AfDAqY4oNkjsIQG5NhUsh2PRPEhIovaWwfPxy2SIKzrVtA&oe=638EC980"
+   },
+   {
+      "id":"2",
+      "name":"Tacones transparente",
+      "description":"Color negro, talla 38",
+      "promocion":"Mitad de precio",
+      "marca":"",
+      "img":"https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/279575744_1498081773919207_3187806288082285990_n.jpg?stp=c48.0.206.206a_dst-jpg_p206x206&_nc_cat=109&ccb=1-7&_nc_sid=da31f3&_nc_ohc=jLh8Hi54KSkAX-A8USM&_nc_ht=scontent.fmga3-2.fna&oh=00_AfBGD8OBqoFaF7GcWaNeFvVUkYHxwlxvzKjEyCfMleJdVw&oe=638EC7C5"
+   },
+   {
+      "id":"2",
+      "name":"Tacones multicolores",
+      "description":"Color negro, talla 38",
+      "promocion":"Mitad de precio",
+      "marca":"",
+      "img":"https://scontent.fmga3-1.fna.fbcdn.net/v/t39.30808-6/279571213_1497360800657971_1446040164205000261_n.jpg?stp=dst-jpg_p206x206&_nc_cat=101&ccb=1-7&_nc_sid=da31f3&_nc_ohc=73XuAJQjMXgAX_h_TvA&_nc_ht=scontent.fmga3-1.fna&oh=00_AfA-4ZIjy6_L3wAAiKy2GfN8o7fF2hx0vdYRLfkRka3Vhw&oe=638ED3B5"
+   },
+   {
+      "id":"3",
+      "name":"Chinelas Crocs",
+      "description":"Color negro, talla 38",
+      "promocion":"Mitad de precio",
+      "marca":"Nike",
+      "img":"https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/277309967_1470725216654863_268814540305625456_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=102&ccb=1-7&_nc_sid=da31f3&_nc_ohc=DpwUTjLhu24AX-LeiZe&tn=IXXQ4MDpgP5srWV9&_nc_ht=scontent.fmga3-2.fna&oh=00_AfApzxTHikEswku9coozz2CbwKULIgfmywfyVU6EDF9_nw&oe=638EFF5E"
+   },
+   {
+      "id":"4",
+      "name":"Sandalias tacon Grueso",
+      "description":"Kidtsport ",
+      "promocion":"Mitad de precio",
+      "marca":"Nike",
+      "img":"https://scontent.fmga3-1.fna.fbcdn.net/v/t39.30808-6/277442710_1470724829988235_5696932680262985607_n.jpg?stp=c35.0.206.206a_dst-jpg_p206x206&_nc_cat=110&ccb=1-7&_nc_sid=da31f3&_nc_ohc=tvLnho67ZrQAX9KFv5X&_nc_ht=scontent.fmga3-1.fna&oh=00_AfDCAvVpvaMa37cAlx05M-5UtOF2iJjR9TUY3S7AwjbIlg&oe=638FB756"
+   },
+   {
+      "id":"5",
+      "name":"Botas",
+      "description":"Color negro, talla 38",
+      "promocion":"Mitad de precio",
+      "marca":"Nike",
+      "img":"https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/274238796_1447428128984572_7715965639539187871_n.jpg?stp=c0.18.206.206a_dst-jpg_p206x206&_nc_cat=102&ccb=1-7&_nc_sid=da31f3&_nc_ohc=scm7IK8-kQ0AX-KWCDj&_nc_ht=scontent.fmga3-2.fna&oh=00_AfBA9bWcSygnvVw7p4lTJSwC8zFKq2NVXJrDhtzMsRnyOA&oe=638F3183"
+   },
+   {
+      "id":"6",
+      "name":"Sandalias para niñas",
+      "description":"Color negro, talla 30 al 34",
+      "promocion":"",
+      "marca":"Nike",
+      "img":"https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/240511138_1358871137840272_6892983631477458977_n.jpg?stp=c34.0.206.206a_dst-jpg_p206x206&_nc_cat=109&ccb=1-7&_nc_sid=da31f3&_nc_ohc=FLWGx-e1Dr8AX-Aj6gH&_nc_ht=scontent.fmga3-2.fna&oh=00_AfCNO-ry4mwCijhyLsBf2PBS5gxmBZiykMpjl1KybaDCDA&oe=638F0A33"
+   }
+   ,
+   {
+      "id":"7",
+      "name":"Zapatos parpa niñas",
+      "description":"Color negro, hhbkj 38",
+      "promocion":"Mitad de precio",
+      "marca":"Nike",
+      "img":"https://scontent.fmga3-1.fna.fbcdn.net/v/t39.30808-6/240590288_1358870744506978_7758892862687144479_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=kEDisEZtNr4AX8Y3YkK&_nc_ht=scontent.fmga3-1.fna&oh=00_AfAw9G6q-QiK8kmY1fZMybzIWw2CdhrCrle3NeFKM_OPGA&oe=638FE911"
+   }
+   ,
+   {
+      "id":"7",
+      "name":"Botas para niña",
+      "description":"Color negro numero, 30,31,32,33,34,",
+      "promocion":"",
+      "marca":"Nike",
+      "img":"https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/273858485_1443571146036937_4703236290770661976_n.jpg?stp=c34.0.206.206a_dst-jpg_p206x206&_nc_cat=102&ccb=1-7&_nc_sid=da31f3&_nc_ohc=p0Y8hqEcH-kAX-jgiYu&_nc_ht=scontent.fmga3-2.fna&oh=00_AfBRtVwGwdhuQcE990NthyvZHwrAJ9dorUdeq61wQdE8lA&oe=638F5B31"
+   }
+] 

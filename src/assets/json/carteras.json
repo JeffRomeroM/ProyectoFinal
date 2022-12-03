@@ -1,0 +1,53 @@
+[
+   {
+      "id":"1",
+      "name":"Cartera Guess",
+      "description":"Color Rosa Palo",
+      "promocion":"",
+      "marca":"GUESS",
+      "img":"https://scontent.fmga3-1.fna.fbcdn.net/v/t39.30808-6/305812450_734240734432247_2630713916560740402_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=104&ccb=1-7&_nc_sid=da31f3&_nc_ohc=f4jiJt1a2ZIAX9Sbb3V&_nc_ht=scontent.fmga3-1.fna&oh=00_AfCVn5hbzCdqa1C4bka4eX8lmF0uwI1oqUOKEUWGF7wLVQ&oe=63901A2F"
+   },
+   {
+      "id":"2",
+      "name":"Cartera Tommy",
+      "description":"Color Gris",
+      "promocion":"",
+      "marca":"TOMY",
+      "img":"https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/305801204_734240987765555_2953129760076916615_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=105&ccb=1-7&_nc_sid=da31f3&_nc_ohc=Vs6cn0QCcHgAX-KFUCk&_nc_ht=scontent.fmga3-2.fna&oh=00_AfC4jixAUBPzJoQHFqY2LKCBTB8SE1tab-uhE5qE3zk2Rw&oe=638FE7AC"
+   }
+   ,
+   {
+      "id":"3",
+      "name":"Bolso Tomy",
+      "description":"Color Blanco",
+      "promocion":"Mitad de precio",
+      "marca":"Nike",
+      "img":"https://scontent.fmga3-1.fna.fbcdn.net/v/t39.30808-6/305929886_734241344432186_7715280188822986540_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=8qd7yW8bBVsAX_iWEwB&_nc_ht=scontent.fmga3-1.fna&oh=00_AfD9qLMx4qpJy7E484wqX8St1-ghfvhJPJQkly0EMMjJeQ&oe=638EA22A"
+   }
+   ,
+   {
+      "id":"4",
+      "name":"Cartera Tomy para telefono",
+      "description":"Color Azul y Rosado",
+      "promocion":"Mitad de precio",
+      "marca":"Nike",
+      "img":"https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/306145020_734242134432107_6229751520925049142_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=jyWuOtnuJPQAX8a3nau&_nc_ht=scontent.fmga3-2.fna&oh=00_AfCxCYLyKoQBCG7Knd73IRAQDfhBr3W3V62luODgPe7tlA&oe=6390801D"
+   },
+
+   {
+      "id":"5",
+      "name":"Cartera Nine west",
+      "description":" Multi color",
+      "promocion":"Mitad de precio",
+      "marca":"Nike",
+      "img":"https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/305811362_734242194432101_1347520295583658017_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=LcM4jqRyP14AX-9BWGv&_nc_ht=scontent.fmga3-2.fna&oh=00_AfA-vQmzh_aleinYlSb8u2mGFy35sSvZnulQIIorHpG1PQ&oe=6390870F"
+   },
+   {
+      "id":"6",
+      "name":"Cartera Steve Madden",
+      "description":"Cafe",
+      "promocion":"Mitad de precio",
+      "marca":"Nike",
+      "img":"https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/306043711_734242357765418_4855847362957533140_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=FwvKhbyltl4AX-G3oWU&_nc_ht=scontent.fmga3-2.fna&oh=00_AfD8ghHC-NBLmk0HYgXEF81tRfW2_oeAHmcjiPjnXRXyTg&oe=63907EFF"
+   }
+] 

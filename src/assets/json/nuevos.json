@@ -1,0 +1,37 @@
+[
+   {
+      "id":"1",
+      "name":"Cartera Guess",
+      "description":"Color Rosa Palo",
+      "promocion":"",
+      "marca":"GUESS",
+      "img":"https://scontent.fmga3-1.fna.fbcdn.net/v/t39.30808-6/305812450_734240734432247_2630713916560740402_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=oDCCKZUWK6gAX-Ag0-k&_nc_ht=scontent.fmga3-1.fna&oh=00_AfBLaYXdSvbgr3fVYJb8aUyhQdKfm50JMapkPIDJuo8Lzw&oe=6388312F"
+   },
+   {
+      "id":"2",
+      "name":"Cartera Tommy",
+      "description":"Color Gris",
+      "promocion":"",
+      "marca":"TOMY",
+      "img":"https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/305801204_734240987765555_2953129760076916615_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=f5XwjfAvPVUAX-tKiuz&_nc_ht=scontent.fmga3-2.fna&oh=00_AfC3A8EXh5c98hppAgSlNSXVx5iTT_ataraJSx85LLaV9g&oe=6387FEAC"
+   }
+   ,
+   {
+      "id":"3",
+      "name":"Bolso Tomy",
+      "description":"Color Blanco",
+      "promocion":"Mitad de precio",
+      "marca":"Nike",
+      "img":"https://scontent.fmga3-1.fna.fbcdn.net/v/t39.30808-6/305929886_734241344432186_7715280188822986540_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iFEOVkClrboAX-ZwVKO&_nc_ht=scontent.fmga3-1.fna&oh=00_AfAMt--92wfzrbFYAgWrCbul9H3LOlBzYrRMPXs71-v4cQ&oe=6388B36A"
+   }
+   ,
+   {
+      "id":"4",
+      "name":"Cartera Tomy para telefono",
+      "description":"Color Azul y Rosado",
+      "promocion":"Mitad de precio",
+      "marca":"Nike",
+      "img":"https://scontent.fmga3-2.fna.fbcdn.net/v/t39.30808-6/305890366_734242101098777_8149313628479512296_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tWtVihVIiDYAX9C4PIe&_nc_ht=scontent.fmga3-2.fna&oh=00_AfDU-NCn_f5tp63RBq7vfCB4um1rTTGMEIAqyvgWBwulBg&oe=63884EAD"
+   }
+
+] 
