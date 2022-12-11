@@ -108,7 +108,14 @@
    background-color: #fff;
    outline: 4px solid #f86f61;
 }
-
+@media only screen and (max-width: 520px){
+   .loNuevo--product{
+      width: 90%;
+      margin: 10% auto;
+      background-color: aqua;
+      border-radius: 10px;
+   }
+}
 
 
 </style>

@@ -6,12 +6,12 @@
     </div>
     <div class="footer--contact">
       <p>Siganos</p>
-      <a href="https://www.facebook.com/profile.php?id=100035389823339" target="_blank">
+      <a href="https://www.facebook.com/profile.php?id=100035389823339" target="_blank" class="face">
         <i class="fa-brands fa-square-facebook"></i>
       </a>
 
       <p>Contactanos</p>
-      <a href="wa.me/+50576263543" target="_blank">
+      <a href="wa.me/+50576263543" target="_blank" class="whatsapp">
         <i class="fa-brands fa-square-whatsapp"></i>
       </a>
     </div>
@@ -51,8 +51,12 @@
 .footer--contact a img{
   width: 50px;
 }
-.footer--contact a:hover{
+.footer--contact .face:hover{
   text-decoration: none;
-  color: white;
+  color: blue;
+}
+.footer--contact .whatsapp:hover{
+  text-decoration: none;
+  color: green;
 }
 </style>

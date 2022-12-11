@@ -115,7 +115,7 @@
 }
 .home--info-detalle .intro{
   text-align: center;
-  color: #ff35c2;
+  color: #000;
   margin-top: 10px;
   font-size: 30px;
 }

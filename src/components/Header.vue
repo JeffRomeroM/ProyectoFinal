@@ -3,7 +3,8 @@
   export default {
   data() {
     return {
-      menu:'menu--close'
+      menu:'menu--close',
+      prod:'fa-solid fa-bars'
     }
 
   },
@@ -12,6 +13,8 @@
     alternarMenu() {
       // this.color = this.color === 'red' ? 'green' : 'red'
       this.menu = this.menu === 'menu--open' ? 'menu--close' : 'menu--open'
+
+      this.prod = this.prod === 'fa-solid fa-close' ? 'fa-solid fa-bars' : 'fa-solid fa-close'
     }
   }
 }
@@ -22,7 +25,7 @@
 
       <div id="icono-menu"  @click="alternarMenu">
    
-         <img src="../assets/menu.png" alt="">
+         <i  :class="prod"></i>
       </div>
 
       <p class="title">Calzado Angelita</p>
@@ -80,7 +83,7 @@
   background-color:#4fa8fb;
   display: flex;
   justify-content: space-between;
-
+  z-index: 1;
 }
 
 
@@ -149,9 +152,10 @@
       margin-left: 1%;
       justify-content: center;
       align-items: center;
+      transition: all .5s ease;
    }
-   #icono-menu img{
-      width: 100%;
+   #icono-menu i{
+      font-size: 35px;
    }
   .title{
    color: white;
@@ -177,7 +181,7 @@
       position: absolute;
       left: 0;
       top: 6vh;
-      transition: all .9s ease;
+      transition: all .5s ease;
    }
 
    #navegation{
