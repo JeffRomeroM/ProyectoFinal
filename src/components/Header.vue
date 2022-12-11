@@ -42,28 +42,28 @@
             <li>
                <i class="fa-solid fa-shoe-prints">
                   
-               <router-link to="/calzados" >Calzado</router-link>
+               <router-link to="/calzados"  @click="alternarMenu" >Calzado</router-link>
                </i>
             </li>
             <li>
                <i class="fa-solid fa-bag-shopping"></i>
-               <router-link to="/carteras" >Carteras</router-link>
+               <router-link to="/carteras" @click="alternarMenu">Carteras</router-link>
             </li>
             <li>
                <i class="fa-brands fa-product-hunt"></i>
-               <router-link to="/productosNuevos" >Lo nuevo</router-link>
+               <router-link to="/productosNuevos" @click="alternarMenu">Lo nuevo</router-link>
             </li>
             <li>
                <i class="fa-solid fa-location-dot"></i>
-               <router-link to="/mapa" >Ubicacion</router-link>
+               <router-link to="/mapa" @click="alternarMenu">Ubicacion</router-link>
             </li>
             <li>
                <i class="fa-solid fa-address-book"></i>
-               <router-link to="/contactos" >Contactos</router-link>
+               <router-link to="/contactos" @click="alternarMenu">Contactos</router-link>
             </li>
             <li >
                <i class="fa-solid fa-user"></i>
-               <router-link to="/login">Login</router-link>
+               <router-link to="/login" @click="alternarMenu">Login</router-link>
             </li>
          </ul>
 
@@ -232,10 +232,6 @@
       width: 50%;
       overflow-x:auto;
    }  
-
-
-  
-
 }
 
 </style>
